@@ -1,0 +1,81 @@
+runfile('/home/nozaki/github/python/speaker_clus_baseline.py', wdir='/home/nozaki/github/python')
+filename:NHK0826
+anchor_num is:4
+
+tp:36 tn:61 fp:11 fn:12
+acc:0.808
+recall:0.750
+precision:0.766
+f_measure:0.758
+
+
+filename:NHK1112
+anchor_num is:5
+
+tp:112 tn:202 fp:22 fn:110
+acc:0.704
+recall:0.505
+precision:0.836
+f_measure:0.629
+
+
+filename:NHK1113
+anchor_num is:5
+
+tp:67 tn:210 fp:33 fn:149
+acc:0.603
+recall:0.310
+precision:0.670
+f_measure:0.424
+
+
+filename:NHK1114
+anchor_num is:4
+
+tp:83 tn:111 fp:0 fn:43
+acc:0.819
+recall:0.659
+precision:1.000
+f_measure:0.794
+
+
+
+runfile('/home/nozaki/github/python/speaker_clus.py', wdir='/home/nozaki/github/python')
+filename:NHK0826
+anchor_num is:2
+
+tp:42 tn:61 fp:11 fn:6
+acc:0.858
+recall:0.875
+precision:0.792
+f_measure:0.832
+
+
+filename:NHK1112
+anchor_num is:3
+
+tp:169 tn:179 fp:45 fn:53
+acc:0.780
+recall:0.761
+precision:0.790
+f_measure:0.775
+
+
+filename:NHK1113
+anchor_num is:3
+
+tp:114 tn:178 fp:65 fn:102
+acc:0.636
+recall:0.528
+precision:0.637
+f_measure:0.577
+
+
+filename:NHK1114
+anchor_num is:2
+
+tp:108 tn:110 fp:1 fn:18
+acc:0.920
+recall:0.857
+precision:0.991
+f_measure:0.919
