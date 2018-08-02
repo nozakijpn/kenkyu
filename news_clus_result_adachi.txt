@@ -1,0 +1,97 @@
+runfile('/home/nozaki/github/python/adachis_prob.py', wdir='/home/nozaki/github/python')
+Reloaded modules: kenkyu_module
+NHK0826
+1
+120
+72
+30
+11
+4
+3
+tp:47 tn:47 fp:25 fn:1
+acc:0.783
+recall:0.979
+precision:0.653
+f_measure:0.783
+
+runfile('/home/nozaki/github/python/adachis_prob.py', wdir='/home/nozaki/github/python')
+Reloaded modules: kenkyu_module
+NHK1112
+1
+446
+302
+104
+22
+12
+6
+tp:200 tn:122 fp:102 fn:22
+acc:0.722
+recall:0.901
+precision:0.662
+f_measure:0.763
+
+runfile('/home/nozaki/github/python/adachis_prob.py', wdir='/home/nozaki/github/python')
+Reloaded modules: kenkyu_module
+NHK1112
+2
+446
+302
+104
+22
+12
+6
+tp:40 tn:327 fp:64 fn:15
+acc:0.823
+recall:0.727
+precision:0.385
+f_measure:0.503
+
+runfile('/home/nozaki/github/python/adachis_prob.py', wdir='/home/nozaki/github/python')
+Reloaded modules: kenkyu_module
+NHK1113
+1
+459
+254
+116
+51
+22
+16
+tp:144 tn:133 fp:110 fn:72
+acc:0.603
+recall:0.667
+precision:0.567
+f_measure:0.613
+
+runfile('/home/nozaki/github/python/adachis_prob.py', wdir='/home/nozaki/github/python')
+Reloaded modules: kenkyu_module
+NHK1114
+1
+237
+159
+50
+20
+5
+3
+tp:120 tn:72 fp:39 fn:6
+acc:0.810
+recall:0.952
+precision:0.755
+f_measure:0.842
+
+
+
+runfile('/home/nozaki/github/python/adachis_prob.py', wdir='/home/nozaki/github/python')
+Reloaded modules: kenkyu_module
+NHK1114
+2
+237
+159
+50
+20
+5
+3
+tp:20 tn:181 fp:30 fn:6
+acc:0.848
+recall:0.769
+precision:0.400
+f_measure:0.526
