@@ -1,0 +1,737 @@
+soxed_NHK0825_0001.y soxed_NHK0825_0002.y
+good
+soxed_NHK0825_0008.y soxed_NHK0825_0009.y
+good
+soxed_NHK0825_0022.y soxed_NHK0825_0023.y
+good
+soxed_NHK0825_0028.y soxed_NHK0825_0029.y
+good
+soxed_NHK0825_0032.y soxed_NHK0825_0033.y
+good
+soxed_NHK0825_0034.y soxed_NHK0825_0035.y
+good
+soxed_NHK0825_0037.y soxed_NHK0825_0038.y
+good
+soxed_NHK0825_0042.y soxed_NHK0825_0043.y
+good
+soxed_NHK0825_0043.y soxed_NHK0825_0044.y
+good
+soxed_NHK0825_0044.y soxed_NHK0825_0045.y
+good
+soxed_NHK0825_0045.y soxed_NHK0825_0046.y
+good
+soxed_NHK0825_0046.y soxed_NHK0825_0047.y
+good
+soxed_NHK0825_0051.y soxed_NHK0825_0051.y
+bad
+soxed_NHK0825_0051.y soxed_NHK0825_0051.y
+bad
+soxed_NHK0825_0056.y soxed_NHK0825_0057.y
+good
+soxed_NHK0825_0059.y soxed_NHK0825_0060.y
+good
+soxed_NHK0825_0061.y soxed_NHK0825_0062.y
+good
+soxed_NHK0825_0080.y soxed_NHK0825_0081.y
+good
+soxed_NHK0825_0081.y soxed_NHK0825_0082.y
+good
+soxed_NHK0825_0083.y soxed_NHK0825_0084.y
+good
+soxed_NHK0825_0087.y soxed_NHK0825_0088.y
+good
+soxed_NHK0825_0097.y soxed_NHK0825_0098.y
+good
+soxed_NHK0825_0103.y soxed_NHK0825_0104.y
+good
+soxed_NHK0825_0107.y soxed_NHK0825_0108.y
+good
+soxed_NHK0825_0113.y soxed_NHK0825_0114.y
+good
+soxed_NHK0825_0114.y soxed_NHK0825_0114.y
+bad
+soxed_NHK0825_0114.y soxed_NHK0825_0115.y
+good
+soxed_NHK0825_0115.y soxed_NHK0825_0116.y
+good
+soxed_NHK0825_0117.y soxed_NHK0825_0118.y
+good
+soxed_NHK0825_0118.y soxed_NHK0825_0119.y
+good
+soxed_NHK0825_0119.y soxed_NHK0825_0120.y
+good
+soxed_NHK0825_0121.y soxed_NHK0825_0122.y
+good
+soxed_NHK0825_0122.y soxed_NHK0825_0123.y
+good
+soxed_NHK0825_0123.y soxed_NHK0825_0124.y
+good
+soxed_NHK0825_0128.y soxed_NHK0825_0129.y
+good
+soxed_NHK0825_0129.y soxed_NHK0825_0130.y
+good
+soxed_NHK0825_0132.y soxed_NHK0825_0133.y
+good
+soxed_NHK0825_0135.y soxed_NHK0825_0136.y
+good
+soxed_NHK0825_0154.y soxed_NHK0825_0155.y
+good
+soxed_NHK0826_0001.y soxed_NHK0826_0002.y
+good
+soxed_NHK0826_0004.y soxed_NHK0826_0004.y
+bad
+soxed_NHK0826_0005.y soxed_NHK0826_0006.y
+good
+soxed_NHK0826_0007.y soxed_NHK0826_0008.y
+good
+soxed_NHK0826_0009.y soxed_NHK0826_0010.y
+good
+soxed_NHK0826_0012.y soxed_NHK0826_0013.y
+good
+soxed_NHK0826_0021.y soxed_NHK0826_0022.y
+good
+soxed_NHK0826_0031.y soxed_NHK0826_0032.y
+good
+soxed_NHK0826_0034.y soxed_NHK0826_0035.y
+good
+soxed_NHK0826_0040.y soxed_NHK0826_0041.y
+good
+soxed_NHK0826_0041.y soxed_NHK0826_0042.y
+good
+soxed_NHK0826_0053.y soxed_NHK0826_0054.y
+good
+soxed_NHK0826_0067.y soxed_NHK0826_0068.y
+good
+soxed_NHK0826_0069.y soxed_NHK0826_0070.y
+good
+soxed_NHK0826_0074.y soxed_NHK0826_0075.y
+good
+soxed_NHK0826_0075.y soxed_NHK0826_0076.y
+good
+soxed_NHK0826_0078.y soxed_NHK0826_0079.y
+good
+soxed_NHK0826_0082.y soxed_NHK0826_0083.y
+good
+soxed_NHK0826_0091.y soxed_NHK0826_0092.y
+good
+soxed_NHK0826_0096.y soxed_NHK0826_0097.y
+good
+soxed_NHK0826_0100.y soxed_NHK0826_0101.y
+good
+soxed_NHK0826_0101.y soxed_NHK0826_0102.y
+good
+soxed_NHK0826_0102.y soxed_NHK0826_0103.y
+good
+soxed_NHK0826_0104.y soxed_NHK0826_0105.y
+good
+soxed_NHK0826_0113.y soxed_NHK0826_0113.y
+bad
+soxed_NHK0826_0117.y soxed_NHK0826_0118.y
+good
+soxed_NHK0826_0131.y soxed_NHK0826_0132.y
+good
+soxed_NHK0826_0137.y soxed_NHK0826_0138.y
+good
+soxed_NHK0826_0143.y soxed_NHK0826_0144.y
+good
+soxed_NHK0826_0146.y soxed_NHK0826_0147.y
+good
+soxed_NHK0826_0148.y soxed_NHK0826_0149.y
+good
+soxed_NHK0826_0158.y soxed_NHK0826_0159.y
+good
+soxed_NHK0826_0159.y soxed_NHK0826_0160.y
+good
+soxed_NHK0826_0168.y soxed_NHK0826_0169.y
+good
+soxed_NHK0826_0176.y soxed_NHK0826_0177.y
+good
+soxed_NHK0826_0178.y soxed_NHK0826_0179.y
+good
+soxed_NHK0826_0189.y soxed_NHK0826_0190.y
+good
+soxed_NHK0826_0191.y soxed_NHK0826_0192.y
+good
+soxed_NHK0826_0192.y soxed_NHK0826_0193.y
+good
+soxed_NHK0826_0193.y soxed_NHK0826_0194.y
+good
+soxed_NHK0826_0197.y soxed_NHK0826_0197.y
+bad
+soxed_NHK0826_0198.y soxed_NHK0826_0199.y
+good
+soxed_NHK0826_0199.y soxed_NHK0826_0200.y
+good
+soxed_NHK0826_0200.y soxed_NHK0826_0201.y
+good
+soxed_NHK0826_0209.y soxed_NHK0826_0210.y
+good
+soxed_NHK0826_0213.y soxed_NHK0826_0214.y
+good
+soxed_NHK0826_0214.y soxed_NHK0826_0215.y
+good
+soxed_NHK0826_0215.y soxed_NHK0826_0216.y
+good
+soxed_NHK0826_0219.y soxed_NHK0826_0220.y
+good
+soxed_NHK0826_0221.y soxed_NHK0826_0222.y
+good
+soxed_NHK0826_0222.y soxed_NHK0826_0223.y
+good
+soxed_NHK0826_0231.y soxed_NHK0826_0232.y
+good
+soxed_NHK0826_0232.y soxed_NHK0826_0233.y
+good
+soxed_NHK0826_0235.y soxed_NHK0826_0236.y
+good
+soxed_NHK0826_0240.y soxed_NHK0826_0241.y
+good
+soxed_NHK0826_0260.y soxed_NHK0826_0261.y
+good
+soxed_NHK1112_0001.y soxed_NHK1112_0002.y
+good
+soxed_NHK1112_0003.y soxed_NHK1112_0004.y
+good
+soxed_NHK1112_0004.y soxed_NHK1112_0004.y
+bad
+soxed_NHK1112_0004.y soxed_NHK1112_0005.y
+good
+soxed_NHK1112_0009.y soxed_NHK1112_0010.y
+good
+soxed_NHK1112_0010.y soxed_NHK1112_0010.y
+bad
+soxed_NHK1112_0010.y soxed_NHK1112_0010.y
+bad
+soxed_NHK1112_0010.y soxed_NHK1112_0011.y
+good
+soxed_NHK1112_0011.y soxed_NHK1112_0011.y
+bad
+soxed_NHK1112_0011.y soxed_NHK1112_0012.y
+good
+soxed_NHK1112_0014.y soxed_NHK1112_0015.y
+good
+soxed_NHK1112_0016.y soxed_NHK1112_0017.y
+good
+soxed_NHK1112_0022.y soxed_NHK1112_0023.y
+good
+soxed_NHK1112_0034.y soxed_NHK1112_0035.y
+good
+soxed_NHK1112_0043.y soxed_NHK1112_0044.y
+good
+soxed_NHK1112_0045.y soxed_NHK1112_0046.y
+good
+soxed_NHK1112_0046.y soxed_NHK1112_0047.y
+good
+soxed_NHK1112_0051.y soxed_NHK1112_0052.y
+good
+soxed_NHK1112_0053.y soxed_NHK1112_0054.y
+good
+soxed_NHK1112_0060.y soxed_NHK1112_0061.y
+good
+soxed_NHK1112_0067.y soxed_NHK1112_0068.y
+good
+soxed_NHK1112_0068.y soxed_NHK1112_0069.y
+good
+soxed_NHK1112_0069.y soxed_NHK1112_0070.y
+good
+soxed_NHK1112_0087.y soxed_NHK1112_0088.y
+good
+soxed_NHK1112_0089.y soxed_NHK1112_0090.y
+good
+soxed_NHK1112_0093.y soxed_NHK1112_0094.y
+good
+soxed_NHK1112_0094.y soxed_NHK1112_0095.y
+good
+soxed_NHK1112_0097.y soxed_NHK1112_0098.y
+good
+soxed_NHK1112_0098.y soxed_NHK1112_0099.y
+good
+soxed_NHK1112_0104.y soxed_NHK1112_0105.y
+good
+soxed_NHK1112_0105.y soxed_NHK1112_0105.y
+bad
+soxed_NHK1112_0105.y soxed_NHK1112_0106.y
+good
+soxed_NHK1112_0106.y soxed_NHK1112_0107.y
+good
+soxed_NHK1112_0108.y soxed_NHK1112_0109.y
+good
+soxed_NHK1112_0112.y soxed_NHK1112_0113.y
+good
+soxed_NHK1112_0113.y soxed_NHK1112_0114.y
+good
+soxed_NHK1112_0115.y soxed_NHK1112_0115.y
+bad
+soxed_NHK1112_0117.y soxed_NHK1112_0118.y
+good
+soxed_NHK1112_0119.y soxed_NHK1112_0120.y
+good
+soxed_NHK1112_0129.y soxed_NHK1112_0130.y
+good
+soxed_NHK1112_0131.y soxed_NHK1112_0132.y
+good
+soxed_NHK1112_0139.y soxed_NHK1112_0140.y
+good
+soxed_NHK1112_0140.y soxed_NHK1112_0140.y
+bad
+soxed_NHK1112_0140.y soxed_NHK1112_0141.y
+good
+soxed_NHK1112_0141.y soxed_NHK1112_0142.y
+good
+soxed_NHK1112_0143.y soxed_NHK1112_0143.y
+bad
+soxed_NHK1112_0143.y soxed_NHK1112_0143.y
+bad
+soxed_NHK1112_0143.y soxed_NHK1112_0144.y
+good
+soxed_NHK1112_0145.y soxed_NHK1112_0146.y
+good
+soxed_NHK1112_0146.y soxed_NHK1112_0147.y
+good
+soxed_NHK1112_0149.y soxed_NHK1112_0150.y
+good
+soxed_NHK1112_0150.y soxed_NHK1112_0150.y
+bad
+soxed_NHK1112_0153.y soxed_NHK1112_0154.y
+good
+soxed_NHK1112_0165.y soxed_NHK1112_0165.y
+bad
+soxed_NHK1112_0165.y soxed_NHK1112_0166.y
+good
+soxed_NHK1112_0169.y soxed_NHK1112_0170.y
+good
+soxed_NHK1112_0171.y soxed_NHK1112_0172.y
+good
+soxed_NHK1112_0178.y soxed_NHK1112_0179.y
+good
+soxed_NHK1112_0184.y soxed_NHK1112_0185.y
+good
+soxed_NHK1112_0186.y soxed_NHK1112_0187.y
+good
+soxed_NHK1112_0187.y soxed_NHK1112_0188.y
+good
+soxed_NHK1112_0190.y soxed_NHK1112_0191.y
+good
+soxed_NHK1112_0191.y soxed_NHK1112_0191.y
+bad
+soxed_NHK1112_0198.y soxed_NHK1112_0199.y
+good
+soxed_NHK1112_0201.y soxed_NHK1112_0202.y
+good
+soxed_NHK1112_0203.y soxed_NHK1112_0204.y
+good
+soxed_NHK1112_0212.y soxed_NHK1112_0213.y
+good
+soxed_NHK1112_0213.y soxed_NHK1112_0214.y
+good
+soxed_NHK1112_0217.y soxed_NHK1112_0218.y
+good
+soxed_NHK1112_0220.y soxed_NHK1112_0221.y
+good
+soxed_NHK1112_0226.y soxed_NHK1112_0227.y
+good
+soxed_NHK1112_0212.y soxed_NHK1112_0212.y
+bad
+soxed_NHK1112_0235.y soxed_NHK1112_0236.y
+good
+soxed_NHK1112_0236.y soxed_NHK1112_0237.y
+good
+soxed_NHK1112_0238.y soxed_NHK1112_0239.y
+good
+soxed_NHK1112_0245.y soxed_NHK1112_0246.y
+good
+soxed_NHK1112_0247.y soxed_NHK1112_0248.y
+good
+soxed_NHK1112_0248.y soxed_NHK1112_0249.y
+good
+soxed_NHK1112_0249.y soxed_NHK1112_0250.y
+good
+soxed_NHK1112_0250.y soxed_NHK1112_0251.y
+good
+soxed_NHK1112_0252.y soxed_NHK1112_0252.y
+bad
+soxed_NHK1112_0254.y soxed_NHK1112_0255.y
+good
+soxed_NHK1112_0256.y soxed_NHK1112_0257.y
+good
+soxed_NHK1112_0260.y soxed_NHK1112_0261.y
+good
+soxed_NHK1112_0263.y soxed_NHK1112_0264.y
+good
+soxed_NHK1112_0267.y soxed_NHK1112_0267.y
+bad
+soxed_NHK1112_0277.y soxed_NHK1112_0278.y
+good
+soxed_NHK1112_0280.y soxed_NHK1112_0281.y
+good
+soxed_NHK1113_0002.y soxed_NHK1113_0003.y
+good
+soxed_NHK1113_0003.y soxed_NHK1113_0003.y
+bad
+soxed_NHK1113_0003.y soxed_NHK1113_0004.y
+good
+soxed_NHK1113_0004.y soxed_NHK1113_0005.y
+good
+soxed_NHK1113_0008.y soxed_NHK1113_0009.y
+good
+soxed_NHK1113_0009.y soxed_NHK1113_0010.y
+good
+soxed_NHK1113_0012.y soxed_NHK1113_0013.y
+good
+soxed_NHK1113_0014.y soxed_NHK1113_0015.y
+good
+soxed_NHK1113_0016.y soxed_NHK1113_0017.y
+good
+soxed_NHK1113_0020.y soxed_NHK1113_0021.y
+good
+soxed_NHK1113_0026.y soxed_NHK1113_0027.y
+good
+soxed_NHK1113_0027.y soxed_NHK1113_0028.y
+good
+soxed_NHK1113_0029.y soxed_NHK1113_0030.y
+good
+soxed_NHK1113_0035.y soxed_NHK1113_0036.y
+good
+soxed_NHK1113_0040.y soxed_NHK1113_0041.y
+good
+soxed_NHK1113_0042.y soxed_NHK1113_0043.y
+good
+soxed_NHK1113_0043.y soxed_NHK1113_0044.y
+good
+soxed_NHK1113_0045.y soxed_NHK1113_0046.y
+good
+soxed_NHK1113_0046.y soxed_NHK1113_0047.y
+good
+soxed_NHK1113_0048.y soxed_NHK1113_0049.y
+good
+soxed_NHK1113_0049.y soxed_NHK1113_0050.y
+good
+soxed_NHK1113_0052.y soxed_NHK1113_0053.y
+good
+soxed_NHK1113_0053.y soxed_NHK1113_0054.y
+good
+soxed_NHK1113_0055.y soxed_NHK1113_0056.y
+good
+soxed_NHK1113_0056.y soxed_NHK1113_0057.y
+good
+soxed_NHK1113_0059.y soxed_NHK1113_0060.y
+good
+soxed_NHK1113_0060.y soxed_NHK1113_0061.y
+good
+soxed_NHK1113_0062.y soxed_NHK1113_0063.y
+good
+soxed_NHK1113_0073.y soxed_NHK1113_0074.y
+good
+soxed_NHK1113_0074.y soxed_NHK1113_0074.y
+bad
+soxed_NHK1113_0076.y soxed_NHK1113_0077.y
+good
+soxed_NHK1113_0081.y soxed_NHK1113_0082.y
+good
+soxed_NHK1113_0084.y soxed_NHK1113_0085.y
+good
+soxed_NHK1113_0093.y soxed_NHK1113_0093.y
+bad
+soxed_NHK1113_0093.y soxed_NHK1113_0094.y
+good
+soxed_NHK1113_0094.y soxed_NHK1113_0095.y
+good
+soxed_NHK1113_0096.y soxed_NHK1113_0097.y
+good
+soxed_NHK1113_0100.y soxed_NHK1113_0101.y
+good
+soxed_NHK1113_0104.y soxed_NHK1113_0105.y
+good
+soxed_NHK1113_0105.y soxed_NHK1113_0106.y
+good
+soxed_NHK1113_0108.y soxed_NHK1113_0109.y
+good
+soxed_NHK1113_0114.y soxed_NHK1113_0115.y
+good
+soxed_NHK1113_0115.y soxed_NHK1113_0116.y
+good
+soxed_NHK1113_0118.y soxed_NHK1113_0119.y
+good
+soxed_NHK1113_0119.y soxed_NHK1113_0120.y
+good
+soxed_NHK1113_0121.y soxed_NHK1113_0122.y
+good
+soxed_NHK1113_0127.y soxed_NHK1113_0128.y
+good
+soxed_NHK1113_0144.y soxed_NHK1113_0145.y
+good
+soxed_NHK1113_0145.y soxed_NHK1113_0146.y
+good
+soxed_NHK1113_0146.y soxed_NHK1113_0147.y
+good
+soxed_NHK1113_0147.y soxed_NHK1113_0148.y
+good
+soxed_NHK1113_0152.y soxed_NHK1113_0153.y
+good
+soxed_NHK1113_0157.y soxed_NHK1113_0157.y
+bad
+soxed_NHK1113_0160.y soxed_NHK1113_0161.y
+good
+soxed_NHK1113_0162.y soxed_NHK1113_0163.y
+good
+soxed_NHK1113_0164.y soxed_NHK1113_0165.y
+good
+soxed_NHK1113_0166.y soxed_NHK1113_0167.y
+good
+soxed_NHK1113_0170.y soxed_NHK1113_0171.y
+good
+soxed_NHK1113_0175.y soxed_NHK1113_0176.y
+good
+soxed_NHK1113_0176.y soxed_NHK1113_0176.y
+bad
+soxed_NHK1113_0176.y soxed_NHK1113_0177.y
+good
+soxed_NHK1113_0181.y soxed_NHK1113_0182.y
+good
+soxed_NHK1113_0182.y soxed_NHK1113_0183.y
+good
+soxed_NHK1113_0187.y soxed_NHK1113_0188.y
+good
+soxed_NHK1113_0190.y soxed_NHK1113_0191.y
+good
+soxed_NHK1113_0191.y soxed_NHK1113_0192.y
+good
+soxed_NHK1113_0193.y soxed_NHK1113_0194.y
+good
+soxed_NHK1113_0195.y soxed_NHK1113_0196.y
+good
+soxed_NHK1113_0197.y soxed_NHK1113_0198.y
+good
+soxed_NHK1113_0202.y soxed_NHK1113_0203.y
+good
+soxed_NHK1113_0206.y soxed_NHK1113_0207.y
+good
+soxed_NHK1113_0207.y soxed_NHK1113_0208.y
+good
+soxed_NHK1113_0208.y soxed_NHK1113_0209.y
+good
+soxed_NHK1113_0211.y soxed_NHK1113_0211.y
+bad
+soxed_NHK1113_0211.y soxed_NHK1113_0212.y
+good
+soxed_NHK1113_0214.y soxed_NHK1113_0215.y
+good
+soxed_NHK1113_0220.y soxed_NHK1113_0221.y
+good
+soxed_NHK1113_0221.y soxed_NHK1113_0222.y
+good
+soxed_NHK1113_0223.y soxed_NHK1113_0224.y
+good
+soxed_NHK1113_0224.y soxed_NHK1113_0225.y
+good
+soxed_NHK1113_0226.y soxed_NHK1113_0227.y
+good
+soxed_NHK1113_0227.y soxed_NHK1113_0228.y
+good
+soxed_NHK1113_0229.y soxed_NHK1113_0229.y
+bad
+soxed_NHK1113_0229.y soxed_NHK1113_0230.y
+good
+soxed_NHK1113_0232.y soxed_NHK1113_0233.y
+good
+soxed_NHK1113_0234.y soxed_NHK1113_0235.y
+good
+soxed_NHK1113_0236.y soxed_NHK1113_0237.y
+good
+soxed_NHK1113_0238.y soxed_NHK1113_0239.y
+good
+soxed_NHK1113_0239.y soxed_NHK1113_0239.y
+bad
+soxed_NHK1113_0241.y soxed_NHK1113_0241.y
+bad
+soxed_NHK1113_0241.y soxed_NHK1113_0241.y
+bad
+soxed_NHK1113_0241.y soxed_NHK1113_0242.y
+good
+soxed_NHK1113_0242.y soxed_NHK1113_0242.y
+bad
+soxed_NHK1113_0251.y soxed_NHK1113_0252.y
+good
+soxed_NHK1113_0259.y soxed_NHK1113_0260.y
+good
+soxed_NHK1114_0001.y soxed_NHK1114_0002.y
+good
+soxed_NHK1114_0002.y soxed_NHK1114_0002.y
+bad
+soxed_NHK1114_0002.y soxed_NHK1114_0003.y
+good
+soxed_NHK1114_0006.y soxed_NHK1114_0007.y
+good
+soxed_NHK1114_0010.y soxed_NHK1114_0011.y
+good
+soxed_NHK1114_0011.y soxed_NHK1114_0012.y
+good
+soxed_NHK1114_0012.y soxed_NHK1114_0013.y
+good
+soxed_NHK1114_0022.y soxed_NHK1114_0023.y
+good
+soxed_NHK1114_0025.y soxed_NHK1114_0026.y
+good
+soxed_NHK1114_0032.y soxed_NHK1114_0033.y
+good
+soxed_NHK1114_0034.y soxed_NHK1114_0035.y
+good
+soxed_NHK1114_0048.y soxed_NHK1114_0049.y
+good
+soxed_NHK1114_0049.y soxed_NHK1114_0050.y
+good
+soxed_NHK1114_0051.y soxed_NHK1114_0052.y
+good
+soxed_NHK1114_0052.y soxed_NHK1114_0053.y
+good
+soxed_NHK1114_0054.y soxed_NHK1114_0055.y
+good
+soxed_NHK1114_0057.y soxed_NHK1114_0058.y
+good
+soxed_NHK1114_0063.y soxed_NHK1114_0064.y
+good
+soxed_NHK1114_0067.y soxed_NHK1114_0068.y
+good
+soxed_NHK1114_0068.y soxed_NHK1114_0069.y
+good
+soxed_NHK1114_0069.y soxed_NHK1114_0070.y
+good
+soxed_NHK1114_0073.y soxed_NHK1114_0074.y
+good
+soxed_NHK1114_0078.y soxed_NHK1114_0079.y
+good
+soxed_NHK1114_0079.y soxed_NHK1114_0080.y
+good
+soxed_NHK1114_0083.y soxed_NHK1114_0084.y
+good
+soxed_NHK1114_0107.y soxed_NHK1114_0108.y
+good
+soxed_NHK1114_0108.y soxed_NHK1114_0109.y
+good
+soxed_NHK1114_0114.y soxed_NHK1114_0114.y
+bad
+soxed_NHK1114_0114.y soxed_NHK1114_0114.y
+bad
+soxed_NHK1114_0115.y soxed_NHK1114_0115.y
+bad
+soxed_NHK1114_0115.y soxed_NHK1114_0115.y
+bad
+soxed_NHK1114_0115.y soxed_NHK1114_0116.y
+good
+soxed_NHK1114_0116.y soxed_NHK1114_0117.y
+good
+soxed_NHK1114_0117.y soxed_NHK1114_0117.y
+bad
+soxed_NHK1114_0117.y soxed_NHK1114_0118.y
+good
+soxed_NHK1114_0122.y soxed_NHK1114_0123.y
+good
+soxed_NHK1114_0130.y soxed_NHK1114_0131.y
+good
+soxed_NHK1114_0133.y soxed_NHK1114_0134.y
+good
+soxed_NHK1114_0136.y soxed_NHK1114_0137.y
+good
+soxed_NHK1114_0138.y soxed_NHK1114_0139.y
+good
+soxed_NHK1114_0145.y soxed_NHK1114_0146.y
+good
+soxed_NHK1114_0146.y soxed_NHK1114_0146.y
+bad
+soxed_NHK1114_0146.y soxed_NHK1114_0146.y
+bad
+soxed_NHK1114_0146.y soxed_NHK1114_0146.y
+bad
+soxed_NHK1114_0146.y soxed_NHK1114_0146.y
+bad
+soxed_NHK1114_0147.y soxed_NHK1114_0148.y
+good
+soxed_NHK1114_0164.y soxed_NHK1114_0165.y
+good
+soxed_NHK1114_0165.y soxed_NHK1114_0165.y
+bad
+soxed_NHK1114_0165.y soxed_NHK1114_0165.y
+bad
+soxed_NHK1114_0165.y soxed_NHK1114_0166.y
+good
+soxed_NHK1114_0171.y soxed_NHK1114_0172.y
+good
+soxed_NHK1114_0178.y soxed_NHK1114_0179.y
+good
+soxed_NHK1114_0179.y soxed_NHK1114_0180.y
+good
+soxed_NHK1114_0184.y soxed_NHK1114_0185.y
+good
+soxed_NHK1114_0185.y soxed_NHK1114_0186.y
+good
+soxed_NHK1114_0191.y soxed_NHK1114_0192.y
+good
+soxed_NHK1114_0192.y soxed_NHK1114_0193.y
+good
+soxed_NHK1114_0196.y soxed_NHK1114_0197.y
+good
+soxed_NHK1114_0197.y soxed_NHK1114_0198.y
+good
+soxed_NHK1114_0206.y soxed_NHK1114_0207.y
+good
+soxed_NHK1114_0207.y soxed_NHK1114_0208.y
+good
+soxed_NHK1114_0210.y soxed_NHK1114_0211.y
+good
+soxed_NHK1114_0224.y soxed_NHK1114_0225.y
+good
+soxed_NHK1114_0226.y soxed_NHK1114_0227.y
+good
+soxed_NHK1114_0230.y soxed_NHK1114_0231.y
+good
+soxed_NHK1114_0231.y soxed_NHK1114_0232.y
+good
+soxed_NHK1114_0233.y soxed_NHK1114_0234.y
+good
+soxed_NHK1114_0235.y soxed_NHK1114_0236.y
+good
+soxed_NHK1114_0238.y soxed_NHK1114_0239.y
+good
+soxed_NHK1114_0239.y soxed_NHK1114_0240.y
+good
+soxed_NHK1114_0241.y soxed_NHK1114_0242.y
+good
+soxed_NHK1114_0242.y soxed_NHK1114_0243.y
+good
+soxed_NHK1114_0243.y soxed_NHK1114_0243.y
+bad
+soxed_NHK1114_0243.y soxed_NHK1114_0244.y
+good
+soxed_NHK1114_0244.y soxed_NHK1114_0245.y
+good
+soxed_NHK1114_0246.y soxed_NHK1114_0247.y
+good
+soxed_NHK1114_0247.y soxed_NHK1114_0248.y
+good
+soxed_NHK1114_0248.y soxed_NHK1114_0249.y
+good
+soxed_NHK1114_0249.y soxed_NHK1114_0249.y
+bad
+soxed_NHK1114_0249.y soxed_NHK1114_0249.y
+bad
+soxed_NHK1114_0249.y soxed_NHK1114_0249.y
+bad
+soxed_NHK1114_0249.y soxed_NHK1114_0250.y
+good
+soxed_NHK1114_0250.y soxed_NHK1114_0250.y
+bad
+soxed_NHK1114_0261.y soxed_NHK1114_0262.y
+good
+soxed_NHK1114_0265.y soxed_NHK1114_0266.y
+good
+soxed_NHK1114_0267.y soxed_NHK1114_0268.y
+good
+soxed_NHK1114_0268.y soxed_NHK1114_0269.y
+good
+soxed_NHK1114_0269.y soxed_NHK1114_0270.y
+good
+soxed_NHK1114_0271.y soxed_NHK1114_0272.y
+good
+318 49
+good : 0.8664850136239782
+bad : 0.1335149863760218
