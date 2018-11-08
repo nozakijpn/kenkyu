@@ -1,4 +1,4 @@
-進捗結果
+進捗
 
 同一話者と異なる話者の発話間の秒数の違い
 ・「search_same_speaker_interval.py」「search_other_speaker_interval.py」の実行の結果、
